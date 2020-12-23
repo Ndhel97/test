@@ -7,3 +7,5 @@ def test_luas_segitiga():
     assert result.hitung(10,-5)==25 , 'input salah'
 
 test_luas_segitiga()
+
+test test
